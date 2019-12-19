@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "慧方便",
+  "usingComponents": {
+    "i-rate": "../../../static/iview/rate/index",
+    "i-button": "../../../static/iview/button/index",
+    "i-card": "../../../static/iview/card/index",
+    "i-tabs": "../../../static/iview/tabs/index",
+    "i-tab": "../../../static/iview/tab/index"
+  }
+}
